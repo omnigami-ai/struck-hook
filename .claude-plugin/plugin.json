@@ -1,0 +1,18 @@
+{
+  "name": "struck-hook",
+  "description": "Make a 5-second opening shot for a launch video in square, wide and tall, with sound. The old way in three huge lines that slam in on the beat, then every line struck through in the brand colour and held. Use when the user asks for a hook, an opener, a \"the old way\" or \"before\" moment, a problem statement, or kinetic type that crosses out the old way, for their product's launch video, teaser or ad.",
+  "author": {
+    "name": "omnigami",
+    "url": "https://omnigami.ai"
+  },
+  "homepage": "https://omnigami.ai/skills/struck-hook",
+  "repository": "https://github.com/omnigami-ai/struck-hook",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "keywords": [
+    "video",
+    "launch video",
+    "product video",
+    "motion graphics",
+    "omnigami"
+  ]
+}
