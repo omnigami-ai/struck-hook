@@ -2,7 +2,7 @@
 
 The old way in three huge lines, struck out.
 
-A five-second opener: the problem your product solves lands in three huge lines on the beat, then every line is struck through in your brand colour and held. It sets up the turn to your product.
+A short opener: the problem your product solves lands in three huge lines on the beat, then every line is struck through in your brand colour and held. It sets up the turn to your product.
 
 Watch it play live, and change its words, at [omnigami.ai/skills/struck-hook](https://omnigami.ai/skills/struck-hook).
 

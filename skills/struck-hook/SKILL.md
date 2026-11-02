@@ -5,6 +5,8 @@ description: Make a 5-second opening shot for a launch video in square, wide and
 
 # Struck hook
 
+For Japanese, Korean or Chinese product pages, keep the copy in that language and set the film’s `lang` to the page’s `<html lang>`; bundled Noto faces and phrase breaks handle the text.
+
 One shot from a launch film: the problem in three huge lines that land on the
 beat, then every line struck through, a line a step, and held. Five seconds,
 in wide, square and tall, with sound. Start from the finished shot in
