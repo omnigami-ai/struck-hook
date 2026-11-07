@@ -1,6 +1,9 @@
 ---
 name: struck-hook
-description: Make a 5-second opening shot for a launch video in square, wide and tall, with sound. The old way in three huge lines that slam in on the beat, then every line struck through in the brand colour and held. Use when the user asks for a hook, an opener, a "the old way" or "before" moment, a problem statement, or kinetic type that crosses out the old way, for their product's launch video, teaser or ad.
+description: >-
+  Opening hook for a launch video: the old way in three huge lines that slam in on the beat, then each struck through
+  in your brand colour. 5 seconds, square, wide and tall, with sound. Use when the user asks for a hook, an opener, a
+  "the old way" or "before" moment, a problem statement or kinetic type for a launch video, teaser or ad.
 ---
 
 # Struck hook
